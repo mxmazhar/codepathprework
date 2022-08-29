@@ -6,7 +6,7 @@
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. 
 
-<img src="codepath gif.gif" width=200><br>
+<img src="https://im5.ezgif.com/tmp/ezgif-5-6c1aa27c9b.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. 
 
